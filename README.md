@@ -1,2 +1,3 @@
-# AIC_BATCH8_Assignment_NumyBasicto-Advance
-Numpy Basic to Advance Assignment
+# AIC_BATCH8_Assignments
+
+Pandas Assignments
